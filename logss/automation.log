@@ -1,0 +1,28 @@
+20:07:56.162 [main] INFO  testCases.TC001_AccountRegistrationTest - *************starting TC001_AccountRegistrationTest ******************** 
+20:07:56.190 [main] INFO  testCases.TC001_AccountRegistrationTest - *************clicking my account and register ******************** 
+20:07:56.702 [main] INFO  testCases.TC001_AccountRegistrationTest - ************* filling personal details ******************** 
+20:07:58.021 [main] INFO  testCases.TC001_AccountRegistrationTest - *************Finished TC001_AccountRegistrationTest ******************** 
+20:12:45.061 [main] INFO  testCases.TC001_AccountRegistrationTest - *************starting TC001_AccountRegistrationTest ******************** 
+20:12:45.087 [main] INFO  testCases.TC001_AccountRegistrationTest - *************clicking my account and register ******************** 
+20:12:45.755 [main] INFO  testCases.TC001_AccountRegistrationTest - ************* filling personal details ******************** 
+20:12:47.087 [main] INFO  testCases.TC001_AccountRegistrationTest - *************Finished TC001_AccountRegistrationTest ******************** 
+20:41:26.336 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *************starting TC001_AccountRegistrationTest ******************** 
+20:41:26.364 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *************clicking my account and register ******************** 
+20:41:26.888 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ************* filling personal details ******************** 
+20:41:28.111 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *************Finished TC001_AccountRegistrationTest ******************** 
+20:53:00.124 [main] INFO  testCases.TC001_AccountRegistrationTest - *************starting TC001_AccountRegistrationTest ******************** 
+20:53:00.149 [main] INFO  testCases.TC001_AccountRegistrationTest - *************clicking my account and register ******************** 
+20:53:00.822 [main] INFO  testCases.TC001_AccountRegistrationTest - ************* filling personal details ******************** 
+20:53:02.308 [main] INFO  testCases.TC001_AccountRegistrationTest - *************Finished TC001_AccountRegistrationTest ******************** 
+12:07:02.560 [main] INFO  testCases.TC001_AccountRegistrationTest - *************starting TC001_AccountRegistrationTest ******************** 
+12:07:02.611 [main] INFO  testCases.TC001_AccountRegistrationTest - *************clicking my account and register ******************** 
+12:07:03.240 [main] INFO  testCases.TC001_AccountRegistrationTest - ************* filling personal details ******************** 
+12:07:04.489 [main] INFO  testCases.TC001_AccountRegistrationTest - *************Finished TC001_AccountRegistrationTest ******************** 
+12:09:25.423 [main] INFO  testCases.TC001_AccountRegistrationTest - *************starting TC001_AccountRegistrationTest ******************** 
+12:09:25.482 [main] INFO  testCases.TC001_AccountRegistrationTest - *************clicking my account and register ******************** 
+12:09:26.318 [main] INFO  testCases.TC001_AccountRegistrationTest - ************* filling personal details ******************** 
+12:09:27.654 [main] INFO  testCases.TC001_AccountRegistrationTest - *************Finished TC001_AccountRegistrationTest ******************** 
+12:16:13.232 [main] INFO  testCases.TC001_AccountRegistrationTest - *************starting TC001_AccountRegistrationTest ******************** 
+12:16:13.269 [main] INFO  testCases.TC001_AccountRegistrationTest - *************clicking my account and register ******************** 
+12:16:13.838 [main] INFO  testCases.TC001_AccountRegistrationTest - ************* filling personal details ******************** 
+12:16:15.147 [main] INFO  testCases.TC001_AccountRegistrationTest - *************Finished TC001_AccountRegistrationTest ******************** 
